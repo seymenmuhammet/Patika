@@ -1,0 +1,61 @@
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+h1{
+    text-align: center;
+}
+.btn-ortala{
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+.header{
+    width: 869px;
+    height: 89px;
+    background-color: blanchedalmond;
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+}
+.header-ortala{
+    width: 869px;
+    height: 89px;
+    position: relative;
+    margin: auto;
+    
+}
+.main{
+    width: 869px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    border: blue;
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+.login{
+    border-style: dotted;
+    border-color: blue;
+    border-width: 2px;
+    width: 250px;
+    height: 180px;
+    float: left;
+    margin: 5px;
+}
+.welcome{
+    width: 580px;
+    height: 580px;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: blue;
+    float: left;
+    margin: 5px;
+}
+.welcome-header{
+    background-color: blue;
+    color: white;
+    margin-top: 0%;
+    padding: 5px;
+}
